@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#perfil"><img src="assets/hero.svg" width="100%" alt="Brayam Oliveros Rivera · Backends que no se caen" /></a>
+<a href="#perfil"><img src="assets/hero.svg" width="100%" alt="Brayam Andrey Oliveros Rivera · Backends que no se caen" /></a>
 
 [![Escríbeme](https://img.shields.io/badge/✉️_Escríbeme-6DB33F?style=for-the-badge)](mailto:andreyrivera2018@gmail.com)
 [![Currículum](https://img.shields.io/badge/📄_Ver_currículum-FDDA24?style=for-the-badge&logoColor=0D1117)](https://andreyri13.github.io/Curriculum/)
@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Construyo+backends+que+aguantan+el+tr%C3%A1fico+%F0%9F%9A%80;WebFlux%2C+RabbitMQ%2C+Redis+y+AWS+%E2%98%81%EF%B8%8F;Casi+6+a%C3%B1os+haciendo+backend+%F0%9F%8F%A6;Desde+C%C3%BAcuta%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
-<img src="assets/terminal.gif" width="720" alt="Terminal arrancando el perfil de Brayam" />
+<img src="assets/terminal.gif" width="720" alt="Terminal arrancando el perfil de Brayam Andrey Oliveros Rivera" />
 
 ![Ubicación](https://img.shields.io/badge/Cúcuta,_Colombia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
@@ -48,6 +48,8 @@
 
 ```java
 public class Brayam extends BackendDeveloper {
+
+    String nombre      = "Brayam Andrey Oliveros Rivera";
 
     String ubicacion   = "Cúcuta, Colombia 🇨🇴";
     int    experiencia = 6; // 2 freelance + 4 en Pragma
@@ -265,16 +267,8 @@ pie showData
 
 <div align="center">
 
-<img width="60%" src="assets/cards/lenguajes.svg" alt="Lenguajes más usados" />
-
-<img width="100%" src="https://streak-stats.demolab.com?user=AndreyRivera13&background=0D1117&border=30363D&ring=1F6FEB&fire=6DB33F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6DB33F&sideLabels=1F6FEB&dates=8B949E&stroke=30363D&locale=es" />
-
-<br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreyRivera13&theme=github_dark" />
-
-<br>
-
+<img width="49%" src="assets/cards/resumen.svg" alt="En números" />
+<img width="49%" src="assets/cards/lenguajes.svg" alt="Lenguajes más usados" />
 
 
 </div>
@@ -291,7 +285,7 @@ pie showData
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Setup de desarrollo" />
 
 [![Currículum](https://img.shields.io/badge/📄_Mi_currículum-2F81F7?style=for-the-badge)](https://andreyri13.github.io/Curriculum/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayam_Oliveros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayam-andrey-oliveros-rivera-00a514200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayam_Andrey_Oliveros_Rivera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayam-andrey-oliveros-rivera-00a514200)
 [![Email](https://img.shields.io/badge/Email-andreyrivera2018@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreyrivera2018@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AndreyRivera13-181717?style=for-the-badge&logo=github)](https://github.com/AndreyRivera13)
 
