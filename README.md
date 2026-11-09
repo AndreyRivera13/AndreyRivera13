@@ -143,63 +143,16 @@ timeline
 <td width="90" align="center"><img src="https://img.shields.io/badge/🏦-FDDA24?style=for-the-badge" height="40" /></td>
 <td>
 
-### Proveedor de Bancolombia · Pragma S.A.
+### Desarrollador Backend Java · Pragma, proveedor de Bancolombia
 ![Fechas](https://img.shields.io/badge/2023_—_Hoy-FDDA24?style=flat-square&labelColor=0D1117&logo=clockify&logoColor=FDDA24)
-![Rol](https://img.shields.io/badge/Desarrollador_Backend_Java-6DB33F?style=flat-square)
-![Equipos](https://img.shields.io/badge/Equipos-6-1F6FEB?style=flat-square)
+![Experiencia](https://img.shields.io/badge/~6_años-2_freelance_·_4_Pragma-6DB33F?style=flat-square&labelColor=0D1117)
+![Stack](https://img.shields.io/badge/Java_·_Spring_Boot-1F6FEB?style=flat-square)
 
-Desarrollador backend en **Bancolombia** como proveedor a través de **Pragma**, en las áreas de EVC Gestión del fraude, Distribución y Ecosistemas. Desde 2023 he pasado por Orion BNPL, Atenea, ALM, Nequi, Tu360 Movilidad y Entitlement.
+Ingeniero de sistemas y desarrollador backend en **Java y Spring Boot**, con cerca de 6 años de experiencia: 2 como freelance y 4 en **Pragma**, desde 2023 como proveedor de **Bancolombia**. He trabajado en **pagos, autenticación, seguridad, Nequi y gestión de accesos**, construyendo microservicios reactivos con arquitectura limpia y modernizando servicios para cerrar vulnerabilidades.
 
 </td>
 </tr>
 </table>
-
-### 🏦 Desarrollador Backend Java · Pragma S.A., Colombia
-`Sep 2022 - Actualidad` · Proveedor de Bancolombia desde 2023 (EVC Gestión del fraude, Distribución, Ecosistemas)
-
-**🔑 Entitlement, autorizaciones y accesos de clientes** · `Sep 2025 - Actualidad`
-- Microservicios reactivos en Java 21 y WebFlux con arquitectura limpia, CQRS sobre PostgreSQL (Aurora) con lectura y escritura separadas, eventos con RabbitMQ y caché con Redis.
-- Migré `ms_actors` a Spring Boot 4 y Jackson 3 para cerrar vulnerabilidades, y corregí 12 entidades R2DBC que el nuevo driver de Postgres dejó al descubierto; validado en DEV.
-- Implementé en dos microservicios el registro de publicación de eventos con DynamoDB (patrón DB Inbox): se guarda, se publica y se actualiza el estado para poder reintentar.
-- Resolví el consumo excesivo de memoria de `client_parameters_ms` acotando la caché Caffeine y unificando el ObjectMapper.
-- Redirigí el consumo del servicio de datos personales de MDM con credenciales por perfil, fuera del código.
-- Librería ECS de logs estructurados (Java y Elixir): corregí bugs, actualicé dependencias por vulnerabilidades, unifiqué los repositorios de Azure DevOps y GitHub y gestioné su publicación en Maven Central.
-
-**🚌 Tu360 Movilidad, Ruta 360** · `Abr - Sep 2025`
-- Construí el control de ruta crítica que detiene el despliegue de microservicios si fallan los flujos de aceptación (módulos Cotidianidad, Movilidad y Pública).
-- Atendí vulnerabilidades de dependencias en lambdas de Movilidad y de Gestión de Clientes.
-
-**💜 Nequi, consulta de créditos de Bancolombia** · `Dic 2024 - Mar 2025`
-- Desarrollé el componente adaptador que permite a Nequi consultar los créditos activos de un cliente y el detalle de cada crédito (servicios `retrieve-customer-loans` y `loan-details`).
-- Acompañé las pruebas de performance y la salida a producción, y resolví fallas de Sonar y de VPN en los pipelines de build.
-
-**🛡️ ALM, disponibilidad y seguridad** · `Abr - Nov 2024`
-- Cerré vulnerabilidades del regulatorio C1 2024 en varios microservicios y migré uno a Spring Boot 3 y Java 17.
-- Generé el certificado público para consumir APIs en producción; adopté el ALM Template, configuré pruebas de mutación y revisé métricas y alertas en Dynatrace.
-- Gestioné con el equipo de plataformas la actualización de PostgreSQL y retiré lambdas, repositorios y despliegues sin uso.
-
-**🔐 Atenea, autenticación de primer factor** · `Mar 2024`
-- Adaptador con KMS en un microservicio en Elixir para cifrar las llaves privadas antes de almacenarlas.
-- Migración de Grafana a Dynatrace y pruebas del nuevo proceso de creación de consumidores.
-
-**🛒 Orion, BNPL** · `Feb 2023 - Feb 2024`
-- Desarrollo de funciones de una lambda de transacciones (actualizar, consultar pendientes y rechazar), sus reglas de entrada en infraestructura y el ajuste de sus pruebas de aceptación.
-- APIs de BNPL (purchase, terms, generate_document): caché con Redis, ajuste de mensajes de excepción, correcciones para Sonar y despliegues hasta producción.
-- Pruebas de aceptación y documentación del control de ruta crítica, y capa de repositorio de un nuevo microservicio.
-
-**📁 Proyectos previos en Pragma:** Kiire (Grupo Éxito y Pagos Redeban), Plataforma de Ingresos y Proyecto de vacaciones.
-- Funcionalidades con programación reactiva en Java, arquitectura limpia y microservicios, con pruebas unitarias y de integración (JUnit, Mockito, JaCoCo).
-- Versionamiento con Git sobre Amazon CodeCommit y bases de datos en Amazon RDS (PostgreSQL), según estándares Pragma.
-
-### 💻 Desarrollador Backend Freelance
-`Dic 2019 - Dic 2021` · Farmacia, afiliación a seguridad social, tiendas virtuales y control de inventario (detalle en Proyectos 👇)
-
-## 🎓 Formación y certificaciones
-
-- 🎓 **Ingeniería de Sistemas**, Universidad Francisco de Paula Santander · 2018 - 2026 · Graduado
-- 📘 **Tecnólogo en Análisis y Desarrollo de Sistemas de Información**, SENA · 2021 - 2023
-- 🗄️ **Tecnología en Implementación y Gestión de Bases de Datos**, SENA · Abr 2026 - En curso
-- ☁️ **Certificación AWS Cloud Practitioner**, Amazon Web Services
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
