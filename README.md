@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:6DB33F&height=260&section=header&text=Brayam%20Oliveros%20Rivera&fontSize=46&fontColor=ffffff&fontAlignY=36&stroke=6DB33F&strokeWidth=1&desc=Backend%20Developer%20%E2%80%A2%20Java%2021%20%E2%80%A2%20Spring%20WebFlux%20%E2%80%A2%20AWS&descAlignY=56&descSize=18&animation=twinkling" width="100%" alt="Banner de Brayam" />
-
 <div align="center">
 
-<h2>¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Saludo" /> Bienvenido a mi perfil</h2>
+<a href="#perfil"><img src="assets/hero.svg" width="100%" alt="Brayam Oliveros Rivera · Backends que no se caen" /></a>
+
+[![Escríbeme](https://img.shields.io/badge/✉️_Escríbeme-6DB33F?style=for-the-badge)](mailto:andreyrivera2018@gmail.com)
+[![Currículum](https://img.shields.io/badge/📄_Ver_currículum-FDDA24?style=for-the-badge&logoColor=0D1117)](https://andreyri13.github.io/Curriculum/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayam-andrey-oliveros-rivera-00a514200)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Construyo+backends+que+aguantan+el+tr%C3%A1fico+%F0%9F%9A%80;WebFlux%2C+RabbitMQ%2C+Redis+y+AWS+%E2%98%81%EF%B8%8F;Casi+6+a%C3%B1os+haciendo+backend+%F0%9F%8F%A6;Desde+C%C3%BAcuta%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
@@ -34,10 +36,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=70&text=Perfil%20profesional&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Perfil profesional" />
 
 <h3 align="center">🧑‍💻 Perfil profesional</h3>
-
-<p align="center">
-  <img src="https://github.com/AndreyRivera13.png" width="200" alt="Foto de perfil de Brayam" style="border-radius:50%" />
-</p>
 
 > [!NOTE]
 > **👋 Sobre mí**
