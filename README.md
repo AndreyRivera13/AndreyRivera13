@@ -237,12 +237,12 @@ pie showData
 
 <div align="center">
 
-<a href="https://github.com/AndreyRivera13/gitpilot"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=gitpilot&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/distributed-rate-limiter"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=distributed-rate-limiter&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/banking-core-platform"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=banking-core-platform&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/tech-content"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=tech-content&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/sat_wiki"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=sat_wiki&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/auth-service-challenge"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=auth-service-challenge&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
+<a href="https://github.com/AndreyRivera13/gitpilot"><img width="49%" src="assets/cards/gitpilot.svg" alt="gitpilot" /></a>
+<a href="https://github.com/AndreyRivera13/distributed-rate-limiter"><img width="49%" src="assets/cards/distributed-rate-limiter.svg" alt="distributed-rate-limiter" /></a>
+<a href="https://github.com/AndreyRivera13/banking-core-platform"><img width="49%" src="assets/cards/banking-core-platform.svg" alt="banking-core-platform" /></a>
+<a href="https://github.com/AndreyRivera13/tech-content"><img width="49%" src="assets/cards/tech-content.svg" alt="tech-content" /></a>
+<a href="https://github.com/AndreyRivera13/sat_wiki"><img width="49%" src="assets/cards/sat_wiki.svg" alt="sat_wiki" /></a>
+<a href="https://github.com/AndreyRivera13/auth-service-challenge"><img width="49%" src="assets/cards/auth-service-challenge.svg" alt="auth-service-challenge" /></a>
 
 </div>
 
@@ -265,8 +265,7 @@ pie showData
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.hackclub.dev/api?username=AndreyRivera13&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D" />
-<img width="49%" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AndreyRivera13&layout=compact&langs_count=8&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D" />
+<img width="60%" src="assets/cards/lenguajes.svg" alt="Lenguajes más usados" />
 
 <img width="100%" src="https://streak-stats.demolab.com?user=AndreyRivera13&background=0D1117&border=30363D&ring=1F6FEB&fire=6DB33F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6DB33F&sideLabels=1F6FEB&dates=8B949E&stroke=30363D&locale=es" />
 
@@ -276,7 +275,6 @@ pie showData
 
 <br>
 
-<img width="100%" alt="Mapa de contribuciones" src="https://ghchart.rshah.org/6DB33F/AndreyRivera13" />
 
 
 </div>
