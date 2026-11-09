@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#perfil"><img src="assets/hero.svg" width="100%" alt="Brayam Andrey Oliveros Rivera · Backends que no se caen" /></a>
+<a href="#perfil"><img src="assets/hero-v2.svg" width="100%" alt="Brayam Andrey Oliveros Rivera · Backends que no se caen" /></a>
 
 [![Escríbeme](https://img.shields.io/badge/✉️_Escríbeme-6DB33F?style=for-the-badge)](mailto:andreyrivera2018@gmail.com)
 [![Currículum](https://img.shields.io/badge/📄_Ver_currículum-FDDA24?style=for-the-badge&logoColor=0D1117)](https://andreyri13.github.io/Curriculum/)
