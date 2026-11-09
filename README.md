@@ -216,12 +216,12 @@ pie showData
 
 <div align="center">
 
-<a href="https://github.com/AndreyRivera13/gitpilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyRivera13&repo=gitpilot&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/distributed-rate-limiter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyRivera13&repo=distributed-rate-limiter&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/banking-core-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyRivera13&repo=banking-core-platform&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/tech-content"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyRivera13&repo=tech-content&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/sat_wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyRivera13&repo=sat_wiki&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/auth-service-challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyRivera13&repo=auth-service-challenge&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/AndreyRivera13/gitpilot"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=gitpilot&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/AndreyRivera13/distributed-rate-limiter"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=distributed-rate-limiter&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/AndreyRivera13/banking-core-platform"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=banking-core-platform&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/AndreyRivera13/tech-content"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=tech-content&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/AndreyRivera13/sat_wiki"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=sat_wiki&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/AndreyRivera13/auth-service-challenge"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=auth-service-challenge&theme=github_dark&hide_border=true" /></a>
 
 </div>
 
@@ -240,18 +240,18 @@ pie showData
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreyRivera13&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyRivera13&layout=compact&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.hackclub.dev/api?username=AndreyRivera13&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AndreyRivera13&layout=compact&theme=github_dark&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=AndreyRivera13&theme=github-dark-blue&hide_border=true" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AndreyRivera13&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreyRivera13&theme=github_dark" />
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndreyRivera13&theme=github-compact&hide_border=true&area=true" />
+<img width="100%" alt="Mapa de contribuciones" src="https://ghchart.rshah.org/1F6FEB/AndreyRivera13" />
 
 
 </div>
