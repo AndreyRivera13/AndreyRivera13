@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <style>
+    .box{fill:#161B22;stroke:#30363D;stroke-width:1.5;rx:12}
+    .t{fill:#C9D1D9;font-size:14px;font-weight:600;text-anchor:middle}
+    .s{fill:#8B949E;font-size:11px;text-anchor:middle}
+    .line{stroke:#30363D;stroke-width:2;fill:none}
+    .pulse{animation:p 1.6s ease-in-out infinite}
+    @keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
+  </style>
+  <rect width="860" height="220" rx="14" fill="#0D1117"/>
+  <text x="430" y="28" class="t" style="fill:#58A6FF;font-size:15px">Así se mueve un evento en mis microservicios reactivos</text>
+  <path id="p" class="line" d="M110 115 H750"/>
+  <g>
+    <rect class="box" x="20" y="80" width="130" height="70"/><text class="t" x="85" y="110">📱 Cliente</text><text class="s" x="85" y="130">Nequi · App · Web</text>
+    <rect class="box" x="190" y="80" width="130" height="70" style="stroke:#6DB33F"/><text class="t" x="255" y="110">⚡ API WebFlux</text><text class="s" x="255" y="130">Java 21 · Clean Arch</text>
+    <rect class="box" x="360" y="80" width="130" height="70" style="stroke:#FF6600"/><text class="t" x="425" y="110">🐇 RabbitMQ</text><text class="s" x="425" y="130">CloudEvents · DB Inbox</text>
+    <rect class="box" x="530" y="80" width="130" height="70" style="stroke:#DC382D"/><text class="t" x="595" y="110">🧠 Redis</text><text class="s" x="595" y="130">Caché · Caffeine</text>
+    <rect class="box" x="700" y="80" width="140" height="70" style="stroke:#1F6FEB"/><text class="t" x="770" y="110">🗄️ Aurora · Dynamo</text><text class="s" x="770" y="130">CQRS lectura / escritura</text>
+  </g>
+  <circle r="6" fill="#6DB33F"><animateMotion dur="2.4s" begin="0s" repeatCount="indefinite" path="M150 115 L700 115"/></circle>
+  <circle r="6" fill="#FDDA24"><animateMotion dur="2.4s" begin="0.8s" repeatCount="indefinite" path="M150 115 L700 115"/></circle>
+  <circle r="6" fill="#58A6FF"><animateMotion dur="2.4s" begin="1.6s" repeatCount="indefinite" path="M150 115 L700 115"/></circle>
+  <text x="430" y="190" class="s pulse" style="fill:#6DB33F;font-size:12px">● El tipo de arquitectura con la que trabajo en Bancolombia · AWS</text>
+</svg>

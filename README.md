@@ -2,7 +2,11 @@
 
 <div align="center">
 
+<h2>¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Saludo" /> Bienvenido a mi perfil</h2>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Construyo+backends+que+aguantan+el+tr%C3%A1fico+%F0%9F%9A%80;WebFlux%2C+RabbitMQ%2C+Redis+y+AWS+%E2%98%81%EF%B8%8F;Casi+6+a%C3%B1os+haciendo+backend+%F0%9F%8F%A6;Desde+C%C3%BAcuta%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
+
+<img src="assets/terminal.gif" width="720" alt="Terminal arrancando el perfil de Brayam" />
 
 ![Ubicación](https://img.shields.io/badge/Cúcuta,_Colombia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
@@ -12,15 +16,24 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## 🧑‍💻 Perfil profesional
+
+<table>
+<tr>
+<td width="60%">
 
 Ingeniero de sistemas con cerca de **6 años de experiencia** como desarrollador backend (2 freelance y 4 en **Pragma**) en **Java y Spring Boot** para banca digital, retail y fintech. En **Bancolombia**, a través de Pragma, he pasado por seis equipos (**BNPL, autenticación, ALM, Nequi, Tu360 Movilidad y Entitlement**), lo que me da una mirada de punta a punta: microservicios reactivos, arquitectura limpia, eventos con RabbitMQ, caché con Redis, AWS, pruebas y seguridad. Busco crecer como referente técnico acompañando el ciclo de vida completo del software.
 
 - 📍 Cúcuta, Colombia
 - 🗣️ Español nativo · Inglés B1
 - ☁️ Certificación AWS Cloud Practitioner
+
+</td>
+<td width="40%" align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Desarrollador trabajando" /></td>
+</tr>
+</table>
 
 ```java
 public class Brayam extends BackendDeveloper {
@@ -38,11 +51,13 @@ public class Brayam extends BackendDeveloper {
 }
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## 🛠️ Stack
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Programando" />
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,ts,py,nodejs,elixir,php,spring,nestjs,nextjs,react&theme=dark&perline=11" />
 <br><br>
@@ -104,7 +119,7 @@ public class Brayam extends BackendDeveloper {
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## 💼 Experiencia
 
@@ -118,6 +133,10 @@ timeline
     2025 : Tu360 Movilidad : Entitlement
     2026 : Ingeniero de Sistemas UFPS
 ```
+
+<div align="center">
+<img src="assets/flujo.svg" width="100%" alt="Flujo de un evento en microservicios reactivos" />
+</div>
 
 <table>
 <tr>
@@ -182,7 +201,7 @@ Desarrollador backend en **Bancolombia** como proveedor a través de **Pragma**,
 - 🗄️ **Tecnología en Implementación y Gestión de Bases de Datos**, SENA · Abr 2026 - En curso
 - ☁️ **Certificación AWS Cloud Practitioner**, Amazon Web Services
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## 🧩 Proyectos
 
@@ -226,7 +245,7 @@ pie showData
 | 📈 **Plataforma de Ingresos** | Pragma | Funcionalidades reactivas con arquitectura limpia | Java · PostgreSQL |
 | 🏖️ **Proyecto de vacaciones** | Pragma | Funcionalidades reactivas con arquitectura limpia | Java · PostgreSQL |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## 🚀 Proyectos destacados
 
@@ -258,7 +277,7 @@ pie showData
 | 🔐 [auth-service-challenge](https://github.com/AndreyRivera13/auth-service-challenge) | Servicio de autenticación en Elixir. |
 | 📚 [tech-content](https://github.com/AndreyRivera13/tech-content) | Contenido tech diario. |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## 📊 Stats
 
@@ -284,11 +303,13 @@ pie showData
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## 📫 Hablemos
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Setup de desarrollo" />
 
 [![Currículum](https://img.shields.io/badge/📄_Mi_currículum-2F81F7?style=for-the-badge)](https://andreyri13.github.io/Curriculum/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayam_Oliveros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayam-andrey-oliveros-rivera-00a514200)
