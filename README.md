@@ -154,6 +154,13 @@ Ingeniero de sistemas y desarrollador backend en **Java y Spring Boot**, con cer
 </tr>
 </table>
 
+## 🎓 Formación y certificaciones
+
+- 🎓 **Ingeniería de Sistemas**, Universidad Francisco de Paula Santander · 2018 - 2026 · Graduado
+- 📘 **Tecnólogo en Análisis y Desarrollo de Sistemas de Información**, SENA · 2021 - 2023
+- 🗄️ **Tecnología en Implementación y Gestión de Bases de Datos**, SENA · Abr 2026 - En curso
+- ☁️ **Certificación AWS Cloud Practitioner**, Amazon Web Services
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## 🧩 Proyectos
