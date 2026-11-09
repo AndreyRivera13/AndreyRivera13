@@ -1,14 +1,13 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:6DB33F&height=220&section=header&text=Brayam%20Andrey%20Oliveros%20Rivera&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservicios%20reactivos&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+
 <div align="center">
-
-# 👋 ¡Hola! Soy Brayam Andrey Oliveros Rivera
-
-### Ingeniero de Sistemas · Backend Java / Spring Boot · Microservicios reactivos
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Construyo+backends+que+aguantan+el+tr%C3%A1fico+%F0%9F%9A%80;WebFlux%2C+RabbitMQ%2C+Redis+y+AWS+%E2%98%81%EF%B8%8F;Casi+6+a%C3%B1os+haciendo+backend+%F0%9F%8F%A6;Desde+C%C3%BAcuta%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
 ![Ubicación](https://img.shields.io/badge/📍_Cúcuta,_Colombia-0D1117?style=for-the-badge)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 ![Open to work](https://img.shields.io/badge/✅_Abierto_a_oportunidades-2EA043?style=for-the-badge)
+[![Pragma](https://img.shields.io/badge/🏦_Pragma_×_Bancolombia-FDDA24?style=for-the-badge)](https://www.pragma.com.co/)
 [![Profile views](https://komarev.com/ghpvc/?username=AndreyRivera13&style=for-the-badge&color=2F81F7&label=VISITAS)](https://github.com/AndreyRivera13)
 
 </div>
@@ -23,11 +22,33 @@ Ingeniero de sistemas con cerca de **6 años de experiencia** como desarrollador
 - 🗣️ Español nativo · Inglés B1
 - ☁️ Certificación AWS Cloud Practitioner
 
+```java
+public class Brayam extends BackendDeveloper {
+
+    String ubicacion   = "Cúcuta, Colombia 🇨🇴";
+    int    experiencia = 6; // 2 freelance + 4 en Pragma
+    String cliente     = "Bancolombia";
+    List<String> equipos = List.of("BNPL", "Autenticación", "ALM", "Nequi", "Tu360 Movilidad", "Entitlement");
+
+    Mono<String> stack() {
+        return Mono.just("Java 21 · Spring WebFlux · RabbitMQ · Redis · AWS");
+    }
+
+    String meta() { return "Crecer como referente técnico 🚀"; }
+}
+```
+
 ---
 
 ## 🛠️ Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,ts,py,nodejs,elixir,php,spring,nestjs,nextjs,react&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka,aws,docker,kubernetes,azure,jenkins,git,github,gitlab&theme=dark" />
+
+<br><br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -87,6 +108,17 @@ Ingeniero de sistemas con cerca de **6 años de experiencia** como desarrollador
 
 ## 💼 Experiencia
 
+```mermaid
+timeline
+    title Mi recorrido como backend
+    2019-2021 : Freelance : Farmacia, seguridad social, e-commerce e inventarios
+    2022 : Pragma : Kiire, Plataforma de Ingresos y Proyecto de vacaciones
+    2023 : Orion BNPL
+    2024 : Atenea autenticación : ALM disponibilidad y seguridad : Nequi créditos
+    2025 : Tu360 Movilidad : Entitlement
+    2026 : Ingeniero de Sistemas UFPS
+```
+
 ### 🏦 Desarrollador Backend Java · Pragma S.A., Colombia
 `Sep 2022 - Actualidad` · Proveedor de Bancolombia (EVC Gestión del fraude, Distribución, Ecosistemas)
 
@@ -137,6 +169,27 @@ Ingeniero de sistemas con cerca de **6 años de experiencia** como desarrollador
 ---
 
 ## 🧩 Proyectos
+
+<div align="center">
+
+![Proyectos](https://img.shields.io/badge/Proyectos-16-1F6FEB?style=for-the-badge&logo=rocket&logoColor=white)
+![E-commerce](https://img.shields.io/badge/E--commerce-4-6DB33F?style=flat-square)
+![Fintech](https://img.shields.io/badge/Fintech-2-FF9900?style=flat-square)
+![EdTech · IA](https://img.shields.io/badge/EdTech_·_IA-2-A371F7?style=flat-square)
+![Streaming](https://img.shields.io/badge/Streaming-2-E0234E?style=flat-square)
+![Herramientas](https://img.shields.io/badge/Herramientas_y_plataformas-6-8B949E?style=flat-square)
+
+</div>
+
+```mermaid
+pie showData
+    title Proyectos por tipo
+    "E-commerce" : 4
+    "Fintech y pagos" : 2
+    "EdTech e IA" : 2
+    "Streaming" : 2
+    "Herramientas y plataformas" : 6
+```
 
 | Producto | Tipo | Qué hace | Stack |
 |---|---|---|---|
@@ -192,6 +245,15 @@ Ingeniero de sistemas con cerca de **6 años de experiencia** como desarrollador
 
 <img src="https://streak-stats.demolab.com?user=AndreyRivera13&theme=github-dark-blue&hide_border=true" />
 
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AndreyRivera13&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndreyRivera13&theme=github-compact&hide_border=true&area=true" />
+
+
 </div>
 
 ---
@@ -208,3 +270,5 @@ Ingeniero de sistemas con cerca de **6 años de experiencia** como desarrollador
 **¿Tienes un reto de backend interesante? Escríbeme, que me encanta resolverlos. ☕**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
