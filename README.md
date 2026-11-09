@@ -23,7 +23,6 @@ Soy ingeniero de sistemas y llevo **casi 6 años haciendo backend**: 2 como free
 - ⚡ Trabajo con microservicios reactivos en **Java 21 + WebFlux**, arquitectura limpia, CQRS, eventos con **RabbitMQ** y caché con **Redis**.
 - 🔒 Me tomo en serio la seguridad: cierro vulnerabilidades, migro a Spring Boot 4 y mantengo una librería de logs publicada en Maven Central.
 - ☁️ Despliego en **AWS** (Aurora, DynamoDB, S3, Lambda) y tengo la certificación **AWS Cloud Practitioner**.
-- 🏢 Fundé **Rivera Code**, donde construyo productos de e-commerce, fintech, edtech e IA.
 - 🎯 Mi meta es crecer como referente técnico y acompañar el ciclo completo del software.
 
 ---
@@ -99,9 +98,7 @@ Soy ingeniero de sistemas y llevo **casi 6 años haciendo backend**: 2 como free
 
 ---
 
-## 🏢 Rivera Code
-
-Además de mi trabajo en banca, dirijo **[Rivera Code](https://github.com/AndreyRivera13/RiveraCode)**, mi estudio de tecnología y servicios digitales. Diseñamos, construimos y desplegamos productos completos, desde la arquitectura hasta producción.
+## 🧩 Proyectos
 
 | Producto | Tipo | Qué hace | Stack |
 |---|---|---|---|
