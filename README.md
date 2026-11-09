@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:6DB33F&height=220&section=header&text=Brayam%20Andrey%20Oliveros%20Rivera&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservicios%20reactivos&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:6DB33F&height=260&section=header&text=Brayam%20Oliveros%20Rivera&fontSize=46&fontColor=ffffff&fontAlignY=36&stroke=6DB33F&strokeWidth=1&desc=Backend%20Developer%20%E2%80%A2%20Java%2021%20%E2%80%A2%20Spring%20WebFlux%20%E2%80%A2%20AWS&descAlignY=56&descSize=18&animation=twinkling" width="100%" alt="Banner de Brayam" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Construyo+backends+que+aguantan+el+tr%C3%A1fico+%F0%9F%9A%80;WebFlux%2C+RabbitMQ%2C+Redis+y+AWS+%E2%98%81%EF%B8%8F;Casi+6+a%C3%B1os+haciendo+backend+%F0%9F%8F%A6;Desde+C%C3%BAcuta%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Construyo+backends+que+aguantan+el+tr%C3%A1fico+%F0%9F%9A%80;WebFlux%2C+RabbitMQ%2C+Redis+y+AWS+%E2%98%81%EF%B8%8F;Casi+6+a%C3%B1os+haciendo+backend+%F0%9F%8F%A6;Desde+C%C3%BAcuta%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
-![Ubicación](https://img.shields.io/badge/📍_Cúcuta,_Colombia-0D1117?style=for-the-badge)
+![Ubicación](https://img.shields.io/badge/Cúcuta,_Colombia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 ![Open to work](https://img.shields.io/badge/✅_Abierto_a_oportunidades-2EA043?style=for-the-badge)
-[![Pragma](https://img.shields.io/badge/🏦_Pragma_×_Bancolombia-FDDA24?style=for-the-badge)](https://www.pragma.com.co/)
-[![Profile views](https://komarev.com/ghpvc/?username=AndreyRivera13&style=for-the-badge&color=2F81F7&label=VISITAS)](https://github.com/AndreyRivera13)
+[![Pragma](https://img.shields.io/badge/Proveedor_Bancolombia-vía_Pragma-FDDA24?style=for-the-badge&labelColor=0D1117)](https://www.pragma.com.co/)
+[![Profile views](https://komarev.com/ghpvc/?username=AndreyRivera13&style=for-the-badge&color=1F6FEB&label=VISITAS&abbreviated=true)](https://github.com/AndreyRivera13)
 
 </div>
 
@@ -44,9 +44,9 @@ public class Brayam extends BackendDeveloper {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,ts,py,nodejs,elixir,php,spring,nestjs,nextjs,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,ts,py,nodejs,elixir,php,spring,nestjs,nextjs,react&theme=dark&perline=11" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka,aws,docker,kubernetes,azure,jenkins,git,github,gitlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka,aws,docker,kubernetes,azure,jenkins,git,github,gitlab&theme=dark&perline=14" />
 
 <br><br>
 
@@ -113,14 +113,30 @@ timeline
     title Mi recorrido como backend
     2019-2021 : Freelance : Farmacia, seguridad social, e-commerce e inventarios
     2022 : Pragma : Kiire, Plataforma de Ingresos y Proyecto de vacaciones
-    2023 : Orion BNPL
+    2023 : Proveedor de Bancolombia vía Pragma : Orion BNPL
     2024 : Atenea autenticación : ALM disponibilidad y seguridad : Nequi créditos
     2025 : Tu360 Movilidad : Entitlement
     2026 : Ingeniero de Sistemas UFPS
 ```
 
+<table>
+<tr>
+<td width="90" align="center"><img src="https://img.shields.io/badge/🏦-FDDA24?style=for-the-badge" height="40" /></td>
+<td>
+
+### Proveedor de Bancolombia · Pragma S.A.
+![Fechas](https://img.shields.io/badge/2023_—_Hoy-FDDA24?style=flat-square&labelColor=0D1117&logo=clockify&logoColor=FDDA24)
+![Rol](https://img.shields.io/badge/Desarrollador_Backend_Java-6DB33F?style=flat-square)
+![Equipos](https://img.shields.io/badge/Equipos-6-1F6FEB?style=flat-square)
+
+Desarrollador backend en **Bancolombia** como proveedor a través de **Pragma**, en las áreas de EVC Gestión del fraude, Distribución y Ecosistemas. Desde 2023 he pasado por Orion BNPL, Atenea, ALM, Nequi, Tu360 Movilidad y Entitlement.
+
+</td>
+</tr>
+</table>
+
 ### 🏦 Desarrollador Backend Java · Pragma S.A., Colombia
-`Sep 2022 - Actualidad` · Proveedor de Bancolombia (EVC Gestión del fraude, Distribución, Ecosistemas)
+`Sep 2022 - Actualidad` · Proveedor de Bancolombia desde 2023 (EVC Gestión del fraude, Distribución, Ecosistemas)
 
 **🔑 Entitlement, autorizaciones y accesos de clientes** · `Sep 2025 - Actualidad`
 - Microservicios reactivos en Java 21 y WebFlux con arquitectura limpia, CQRS sobre PostgreSQL (Aurora) con lectura y escritura separadas, eventos con RabbitMQ y caché con Redis.
@@ -173,11 +189,11 @@ timeline
 <div align="center">
 
 ![Proyectos](https://img.shields.io/badge/Proyectos-16-1F6FEB?style=for-the-badge&logo=rocket&logoColor=white)
-![E-commerce](https://img.shields.io/badge/E--commerce-4-6DB33F?style=flat-square)
-![Fintech](https://img.shields.io/badge/Fintech-2-FF9900?style=flat-square)
-![EdTech · IA](https://img.shields.io/badge/EdTech_·_IA-2-A371F7?style=flat-square)
-![Streaming](https://img.shields.io/badge/Streaming-2-E0234E?style=flat-square)
-![Herramientas](https://img.shields.io/badge/Herramientas_y_plataformas-6-8B949E?style=flat-square)
+![E-commerce](https://img.shields.io/badge/E--commerce-4-6DB33F?style=for-the-badge&labelColor=0D1117)
+![Fintech](https://img.shields.io/badge/Fintech-2-FF9900?style=for-the-badge&labelColor=0D1117)
+![EdTech · IA](https://img.shields.io/badge/EdTech_·_IA-2-A371F7?style=for-the-badge&labelColor=0D1117)
+![Streaming](https://img.shields.io/badge/Streaming-2-E0234E?style=for-the-badge&labelColor=0D1117)
+![Herramientas](https://img.shields.io/badge/Herramientas_y_plataformas-6-8B949E?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -216,12 +232,20 @@ pie showData
 
 <div align="center">
 
-<a href="https://github.com/AndreyRivera13/gitpilot"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=gitpilot&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/distributed-rate-limiter"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=distributed-rate-limiter&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/banking-core-platform"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=banking-core-platform&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/tech-content"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=tech-content&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/sat_wiki"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=sat_wiki&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/AndreyRivera13/auth-service-challenge"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=auth-service-challenge&theme=github_dark&hide_border=true" /></a>
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/AndreyRivera13/gitpilot"><img width="100%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=gitpilot&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a></td>
+<td width="50%"><a href="https://github.com/AndreyRivera13/distributed-rate-limiter"><img width="100%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=distributed-rate-limiter&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/AndreyRivera13/banking-core-platform"><img width="100%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=banking-core-platform&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a></td>
+<td width="50%"><a href="https://github.com/AndreyRivera13/tech-content"><img width="100%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=tech-content&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/AndreyRivera13/sat_wiki"><img width="100%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=sat_wiki&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a></td>
+<td width="50%"><a href="https://github.com/AndreyRivera13/auth-service-challenge"><img width="100%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=auth-service-challenge&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a></td>
+</tr>
+</table>
 
 </div>
 
@@ -240,10 +264,14 @@ pie showData
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.hackclub.dev/api?username=AndreyRivera13&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AndreyRivera13&layout=compact&theme=github_dark&hide_border=true" />
+<table>
+<tr>
+<td width="55%"><img width="100%" src="https://github-readme-stats.hackclub.dev/api?username=AndreyRivera13&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D" /></td>
+<td width="45%"><img width="100%" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AndreyRivera13&layout=compact&langs_count=8&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D" /></td>
+</tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=AndreyRivera13&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AndreyRivera13&background=0D1117&border=30363D&ring=1F6FEB&fire=6DB33F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6DB33F&sideLabels=1F6FEB&dates=8B949E&stroke=30363D&locale=es" />
 
 <br>
 
@@ -251,7 +279,7 @@ pie showData
 
 <br>
 
-<img width="100%" alt="Mapa de contribuciones" src="https://ghchart.rshah.org/1F6FEB/AndreyRivera13" />
+<img width="100%" alt="Mapa de contribuciones" src="https://ghchart.rshah.org/6DB33F/AndreyRivera13" />
 
 
 </div>
@@ -271,4 +299,4 @@ pie showData
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,55:1F6FEB,100:0D1117&height=140&section=footer&text=¡Gracias%20por%20pasar!&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt="Pie de página" />
