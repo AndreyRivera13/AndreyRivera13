@@ -183,12 +183,12 @@ timeline
 
 <div align="center">
 
-![Proyectos](https://img.shields.io/badge/Proyectos-16-1F6FEB?style=for-the-badge&logo=rocket&logoColor=white)
+![Proyectos](https://img.shields.io/badge/Proyectos-17-1F6FEB?style=for-the-badge&logo=rocket&logoColor=white)
 ![E-commerce](https://img.shields.io/badge/E--commerce-4-6DB33F?style=for-the-badge&labelColor=0D1117)
 ![Fintech](https://img.shields.io/badge/Fintech-2-FF9900?style=for-the-badge&labelColor=0D1117)
 ![EdTech · IA](https://img.shields.io/badge/EdTech_·_IA-2-A371F7?style=for-the-badge&labelColor=0D1117)
 ![Streaming](https://img.shields.io/badge/Streaming-2-E0234E?style=for-the-badge&labelColor=0D1117)
-![Herramientas](https://img.shields.io/badge/Herramientas_y_plataformas-6-8B949E?style=for-the-badge&labelColor=0D1117)
+![Herramientas](https://img.shields.io/badge/Herramientas_y_plataformas-7-8B949E?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -199,11 +199,11 @@ pie showData
     "Fintech y pagos" : 2
     "EdTech e IA" : 2
     "Streaming" : 2
-    "Herramientas y plataformas" : 6
+    "Herramientas y plataformas" : 7
 ```
 
 > [!NOTE]
-> **🚀 Productos propios · 8**
+> **🚀 Productos propios · 9**
 >
 > - 👟 [**DRUTS**](https://github.com/AndreyRivera13/druts) · *E-commerce* · Tienda de calzado con variantes, inventario en tiempo real y ventas por canal social `Next.js · NestJS · PostgreSQL · Prisma / TypeORM · Docker`
 > - ☕ **Colombia Grand Reserve** · *E-commerce* · Café colombiano de especialidad con pagos en Stripe y analítica `Next.js · Supabase · Stripe`
@@ -213,6 +213,7 @@ pie showData
 > - ✨ **EduGuide AI** · *EdTech · IA* · Pipeline multiagente que genera guías educativas de hasta 30 páginas, exportables a DOCX, PDF y PPTX `Java 21 · Spring Boot · Next.js · PostgreSQL · Redis · RabbitMQ · AWS S3`
 > - 🔴 **Afrodita** · *Streaming* · Transmisión en vivo con chat en tiempo real y propinas en tokens `Next.js · Socket.io · Prisma`
 > - ▦ [**Generador QR**](https://github.com/AndreyRivera13/generate-qr) · *Herramienta* · Códigos QR al instante, 100% en el navegador `HTML · JavaScript`
+> - 🎵 [**Video a MP3**](https://andreyrivera13.github.io/herramientas-diarias/tools/01-video-a-mp3/) · *Herramienta* · Extrae el audio de tus videos y lo baja en MP3, 100% en el navegador `HTML · JavaScript · Web Workers`
 
 > [!TIP]
 > **🧑‍🔧 Freelance · 5**
