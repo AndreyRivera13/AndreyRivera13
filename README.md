@@ -14,21 +14,39 @@
 [![Pragma](https://img.shields.io/badge/Proveedor_Bancolombia-vía_Pragma-FDDA24?style=for-the-badge&labelColor=0D1117)](https://www.pragma.com.co/)
 [![Profile views](https://komarev.com/ghpvc/?username=AndreyRivera13&style=for-the-badge&color=1F6FEB&label=VISITAS&abbreviated=true)](https://github.com/AndreyRivera13)
 
+
+<br>
+
+[![Perfil profesional](https://img.shields.io/badge/🧑‍💻_Perfil_profesional-1F6FEB?style=flat-square&labelColor=0D1117)](#perfil)
+[![Stack tecnológico](https://img.shields.io/badge/🛠️_Stack_tecnol%C3%B3gico-6DB33F?style=flat-square&labelColor=0D1117)](#stack)
+[![Experiencia](https://img.shields.io/badge/💼_Experiencia-FDDA24?style=flat-square&labelColor=0D1117)](#experiencia)
+[![Formación y certificaciones](https://img.shields.io/badge/🎓_Formaci%C3%B3n_y_certificaciones-A371F7?style=flat-square&labelColor=0D1117)](#formacion)
+[![Proyectos](https://img.shields.io/badge/🧩_Proyectos-FF9900?style=flat-square&labelColor=0D1117)](#proyectos)
+[![Proyectos destacados](https://img.shields.io/badge/🚀_Proyectos_destacados-E0234E?style=flat-square&labelColor=0D1117)](#destacados)
+[![Estadísticas](https://img.shields.io/badge/📊_Estad%C3%ADsticas-1F6FEB?style=flat-square&labelColor=0D1117)](#stats)
+[![Hablemos](https://img.shields.io/badge/📫_Hablemos-6DB33F?style=flat-square&labelColor=0D1117)](#contacto)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
-## 🧑‍💻 Perfil profesional
+<a id="perfil"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=70&text=Perfil%20profesional&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Perfil profesional" />
+
+<h3 align="center">🧑‍💻 Perfil profesional</h3>
 
 <p align="center">
-  <img src="https://github.com/AndreyRivera13.png" width="160" alt="Foto de perfil de Brayam" style="border-radius:50%" />
+  <img src="https://github.com/AndreyRivera13.png" width="200" alt="Foto de perfil de Brayam" style="border-radius:50%" />
 </p>
 
-Ingeniero de sistemas con cerca de **6 años de experiencia** como desarrollador backend (2 freelance y 4 en **Pragma**) en **Java y Spring Boot** para banca digital, retail y fintech. En **Bancolombia**, a través de Pragma, he pasado por seis equipos (**BNPL, autenticación, ALM, Nequi, Tu360 Movilidad y Entitlement**), lo que me da una mirada de punta a punta: microservicios reactivos, arquitectura limpia, eventos con RabbitMQ, caché con Redis, AWS, pruebas y seguridad. Busco crecer como referente técnico acompañando el ciclo de vida completo del software.
-
-- 📍 Cúcuta, Colombia
-- 🗣️ Español nativo · Inglés B1
-- ☁️ Certificación AWS Cloud Practitioner
+> [!NOTE]
+> **👋 Sobre mí**
+>
+> Ingeniero de sistemas con cerca de **6 años de experiencia** como desarrollador backend (2 freelance y 4 en **Pragma**) en **Java y Spring Boot** para banca digital, retail y fintech. En **Bancolombia**, a través de Pragma, he pasado por seis equipos (**BNPL, autenticación, ALM, Nequi, Tu360 Movilidad y Entitlement**), lo que me da una mirada de punta a punta: microservicios reactivos, arquitectura limpia, eventos con RabbitMQ, caché con Redis, AWS, pruebas y seguridad. Busco crecer como referente técnico acompañando el ciclo de vida completo del software.
+>
+> - 📍 Cúcuta, Colombia
+> - 🗣️ Español nativo · Inglés B1
+> - ☁️ Certificación AWS Cloud Practitioner
 
 ```java
 public class Brayam extends BackendDeveloper {
@@ -48,7 +66,10 @@ public class Brayam extends BackendDeveloper {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
-## 🛠️ Stack
+<a id="stack"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6DB33F&height=70&text=Stack%20tecnol%C3%B3gico&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Stack tecnológico" />
+
+<h3 align="center">🛠️ Stack tecnológico</h3>
 
 <div align="center">
 
@@ -94,27 +115,27 @@ public class Brayam extends BackendDeveloper {
 
 </div>
 
-<details>
-<summary><b>🧰 Habilidades técnicas completas</b></summary>
+> [!TIP]
+> **🧰 Habilidades técnicas completas**
+>
+> - **Lenguajes:** Java 21, TypeScript, Python, Node.js, Kotlin, PHP, Elixir
+> - **Frameworks:** Spring Boot, Spring WebFlux, Spring Web (MVC), R2DBC, NestJS
+> - **Arquitectura:** Clean Architecture, Hexagonal, Microservicios, CQRS, EDA, POO, SOLID
+> - **Datos y caché:** PostgreSQL (Aurora), DynamoDB, MySQL, MongoDB, Redis, Caffeine
+> - **Mensajería y eventos:** RabbitMQ (CloudEvents, AsyncAPI), Kafka
+> - **Testing:** JUnit, Mockito, JaCoCo, StepVerifier, Karate, Pitest (mutation)
+> - **Cloud y DevOps:** AWS (Aurora, DynamoDB, S3, Secrets Manager, EC2), Kubernetes, Docker, Azure DevOps (pipelines), SonarQube, Jenkins
+> - **Observabilidad y seguridad:** Dynatrace, logs estructurados ECS, JWT, gestión de vulnerabilidades
+> - **Control de versiones:** Git, GitHub, GitLab, Azure DevOps
+> - **Metodologías:** Scrum
 
-<br>
-
-- **Lenguajes:** Java 21, TypeScript, Python, Node.js, Kotlin, PHP, Elixir
-- **Frameworks:** Spring Boot, Spring WebFlux, Spring Web (MVC), R2DBC, NestJS
-- **Arquitectura:** Clean Architecture, Hexagonal, Microservicios, CQRS, EDA, POO, SOLID
-- **Datos y caché:** PostgreSQL (Aurora), DynamoDB, MySQL, MongoDB, Redis, Caffeine
-- **Mensajería y eventos:** RabbitMQ (CloudEvents, AsyncAPI), Kafka
-- **Testing:** JUnit, Mockito, JaCoCo, StepVerifier, Karate, Pitest (mutation)
-- **Cloud y DevOps:** AWS (Aurora, DynamoDB, S3, Secrets Manager, EC2), Kubernetes, Docker, Azure DevOps (pipelines), SonarQube, Jenkins
-- **Observabilidad y seguridad:** Dynatrace, logs estructurados ECS, JWT, gestión de vulnerabilidades
-- **Control de versiones:** Git, GitHub, GitLab, Azure DevOps
-- **Metodologías:** Scrum
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
-## 💼 Experiencia
+<a id="experiencia"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FDDA24&height=70&text=Experiencia&fontSize=30&fontColor=0D1117&fontAlign=50&fontAlignY=55" width="100%" alt="Experiencia" />
+
+<h3 align="center">💼 Experiencia</h3>
 
 ```mermaid
 timeline
@@ -131,25 +152,34 @@ timeline
 <img src="assets/flujo.svg" width="100%" alt="Flujo de un evento en microservicios reactivos" />
 </div>
 
-<img src="https://img.shields.io/badge/🏦-FDDA24?style=for-the-badge" height="40" />
+> [!IMPORTANT]
+>
+> **🏦 Desarrollador Backend Java · Pragma, proveedor de Bancolombia**
+> ![Fechas](https://img.shields.io/badge/2023_—_Hoy-FDDA24?style=flat-square&labelColor=0D1117&logo=clockify&logoColor=FDDA24)
+> ![Experiencia](https://img.shields.io/badge/~6_años-2_freelance_·_4_Pragma-6DB33F?style=flat-square&labelColor=0D1117)
+> ![Stack](https://img.shields.io/badge/Java_·_Spring_Boot-1F6FEB?style=flat-square)
+>
+> Ingeniero de sistemas y desarrollador backend en **Java y Spring Boot**, con cerca de 6 años de experiencia: 2 como freelance y 4 en **Pragma**, desde 2023 como proveedor de **Bancolombia**. He trabajado en **pagos, autenticación, seguridad, Nequi y gestión de accesos**, construyendo microservicios reactivos con arquitectura limpia y modernizando servicios para cerrar vulnerabilidades.
 
-### Desarrollador Backend Java · Pragma, proveedor de Bancolombia
-![Fechas](https://img.shields.io/badge/2023_—_Hoy-FDDA24?style=flat-square&labelColor=0D1117&logo=clockify&logoColor=FDDA24)
-![Experiencia](https://img.shields.io/badge/~6_años-2_freelance_·_4_Pragma-6DB33F?style=flat-square&labelColor=0D1117)
-![Stack](https://img.shields.io/badge/Java_·_Spring_Boot-1F6FEB?style=flat-square)
+<a id="formacion"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:A371F7&height=70&text=Formaci%C3%B3n%20y%20certificaciones&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Formación y certificaciones" />
 
-Ingeniero de sistemas y desarrollador backend en **Java y Spring Boot**, con cerca de 6 años de experiencia: 2 como freelance y 4 en **Pragma**, desde 2023 como proveedor de **Bancolombia**. He trabajado en **pagos, autenticación, seguridad, Nequi y gestión de accesos**, construyendo microservicios reactivos con arquitectura limpia y modernizando servicios para cerrar vulnerabilidades.
+<h3 align="center">🎓 Formación y certificaciones</h3>
 
-## 🎓 Formación y certificaciones
-
-- 🎓 **Ingeniería de Sistemas**, Universidad Francisco de Paula Santander · 2018 - 2026 · Graduado
-- 📘 **Tecnólogo en Análisis y Desarrollo de Sistemas de Información**, SENA · 2021 - 2023
-- 🗄️ **Tecnología en Implementación y Gestión de Bases de Datos**, SENA · Abr 2026 - En curso
-- ☁️ **Certificación AWS Cloud Practitioner**, Amazon Web Services
+> [!TIP]
+> **📚 Estudios y certificaciones**
+>
+> - 🎓 **Ingeniería de Sistemas**, Universidad Francisco de Paula Santander · 2018 - 2026 · Graduado
+> - 📘 **Tecnólogo en Análisis y Desarrollo de Sistemas de Información**, SENA · 2021 - 2023
+> - 🗄️ **Tecnología en Implementación y Gestión de Bases de Datos**, SENA · Abr 2026 - En curso
+> - ☁️ **Certificación AWS Cloud Practitioner**, Amazon Web Services
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
-## 🧩 Proyectos
+<a id="proyectos"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF9900&height=70&text=Proyectos&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Proyectos" />
+
+<h3 align="center">🧩 Proyectos</h3>
 
 <div align="center">
 
@@ -172,55 +202,75 @@ pie showData
     "Herramientas y plataformas" : 6
 ```
 
-- 👟 [**DRUTS**](https://github.com/AndreyRivera13/druts) · *E-commerce* · Tienda de calzado con variantes, inventario en tiempo real y ventas por canal social `Next.js · NestJS · PostgreSQL · Prisma / TypeORM · Docker`
-- ☕ **Colombia Grand Reserve** · *E-commerce* · Café colombiano de especialidad con pagos en Stripe y analítica `Next.js · Supabase · Stripe`
-- 💱 **Nuvix Bank** · *Fintech* · Cotización de divisas, billetera multimoneda, verificación KYC y backoffice con auditoría y reportes `Java · Spring Boot · Microservicios · Gradle`
-- 💃 **Arte Viva** · *Streaming* · Streaming de danza y artes escénicas, con IA de postura en camino `React · NestJS · Kafka · Redis`
-- 🎓 **Eltaryn** · *EdTech* · Laboratorios reales en la nube y tutor con IA para ingenieros `Docker · Kubernetes · AWS`
-- ✨ **EduGuide AI** · *EdTech · IA* · Pipeline multiagente que genera guías educativas de hasta 30 páginas, exportables a DOCX, PDF y PPTX `Java 21 · Spring Boot · Next.js · PostgreSQL · Redis · RabbitMQ · AWS S3`
-- 🔴 **Afrodita** · *Streaming* · Transmisión en vivo con chat en tiempo real y propinas en tokens `Next.js · Socket.io · Prisma`
-- ▦ [**Generador QR**](https://github.com/AndreyRivera13/generate-qr) · *Herramienta* · Códigos QR al instante, 100% en el navegador `HTML · JavaScript`
-- 🏥 **Farmacia** · *Freelance* · Sistema de ventas e inventario `PHP · MySQL`
-- 🩺 **Afiliación a seguridad social** · *Freelance* · Plataforma web de afiliación `Java Spring Boot · MySQL · Angular`
-- 👞 **Tienda virtual de calzado** · *Freelance* · E-commerce a la medida `Java Web · MySQL`
-- 📦 **Control de inventario** · *Freelance* · Aplicación de escritorio `Kotlin · SQLite`
-- 🛍️ **Tienda virtual SOMAR** · *Freelance* · E-commerce `Node.js · MySQL`
-- 💳 **Kiire** · *Pragma* · Proyecto para Grupo Éxito y Pagos Redeban con programación reactiva `Java · Microservicios · Amazon RDS`
-- 📈 **Plataforma de Ingresos** · *Pragma* · Funcionalidades reactivas con arquitectura limpia `Java · PostgreSQL`
-- 🏖️ **Proyecto de vacaciones** · *Pragma* · Funcionalidades reactivas con arquitectura limpia `Java · PostgreSQL`
+> [!NOTE]
+> **🚀 Productos propios · 8**
+>
+> - 👟 [**DRUTS**](https://github.com/AndreyRivera13/druts) · *E-commerce* · Tienda de calzado con variantes, inventario en tiempo real y ventas por canal social `Next.js · NestJS · PostgreSQL · Prisma / TypeORM · Docker`
+> - ☕ **Colombia Grand Reserve** · *E-commerce* · Café colombiano de especialidad con pagos en Stripe y analítica `Next.js · Supabase · Stripe`
+> - 💱 **Nuvix Bank** · *Fintech* · Cotización de divisas, billetera multimoneda, verificación KYC y backoffice con auditoría y reportes `Java · Spring Boot · Microservicios · Gradle`
+> - 💃 **Arte Viva** · *Streaming* · Streaming de danza y artes escénicas, con IA de postura en camino `React · NestJS · Kafka · Redis`
+> - 🎓 **Eltaryn** · *EdTech* · Laboratorios reales en la nube y tutor con IA para ingenieros `Docker · Kubernetes · AWS`
+> - ✨ **EduGuide AI** · *EdTech · IA* · Pipeline multiagente que genera guías educativas de hasta 30 páginas, exportables a DOCX, PDF y PPTX `Java 21 · Spring Boot · Next.js · PostgreSQL · Redis · RabbitMQ · AWS S3`
+> - 🔴 **Afrodita** · *Streaming* · Transmisión en vivo con chat en tiempo real y propinas en tokens `Next.js · Socket.io · Prisma`
+> - ▦ [**Generador QR**](https://github.com/AndreyRivera13/generate-qr) · *Herramienta* · Códigos QR al instante, 100% en el navegador `HTML · JavaScript`
+
+> [!TIP]
+> **🧑‍🔧 Freelance · 5**
+>
+> - 🏥 **Farmacia** · *Freelance* · Sistema de ventas e inventario `PHP · MySQL`
+> - 🩺 **Afiliación a seguridad social** · *Freelance* · Plataforma web de afiliación `Java Spring Boot · MySQL · Angular`
+> - 👞 **Tienda virtual de calzado** · *Freelance* · E-commerce a la medida `Java Web · MySQL`
+> - 📦 **Control de inventario** · *Freelance* · Aplicación de escritorio `Kotlin · SQLite`
+> - 🛍️ **Tienda virtual SOMAR** · *Freelance* · E-commerce `Node.js · MySQL`
+
+> [!IMPORTANT]
+> **🏢 Pragma · 3**
+>
+> - 💳 **Kiire** · *Pragma* · Proyecto para Grupo Éxito y Pagos Redeban con programación reactiva `Java · Microservicios · Amazon RDS`
+> - 📈 **Plataforma de Ingresos** · *Pragma* · Funcionalidades reactivas con arquitectura limpia `Java · PostgreSQL`
+> - 🏖️ **Proyecto de vacaciones** · *Pragma* · Funcionalidades reactivas con arquitectura limpia `Java · PostgreSQL`
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
-## 🚀 Proyectos destacados
+<a id="destacados"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:E0234E&height=70&text=Proyectos%20destacados&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Proyectos destacados" />
+
+<h3 align="center">🚀 Proyectos destacados</h3>
 
 <div align="center">
 
-<a href="https://github.com/AndreyRivera13/gitpilot"><img width="400" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=gitpilot&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/distributed-rate-limiter"><img width="400" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=distributed-rate-limiter&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/banking-core-platform"><img width="400" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=banking-core-platform&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/tech-content"><img width="400" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=tech-content&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/sat_wiki"><img width="400" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=sat_wiki&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
-<a href="https://github.com/AndreyRivera13/auth-service-challenge"><img width="400" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=auth-service-challenge&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
+<a href="https://github.com/AndreyRivera13/gitpilot"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=gitpilot&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
+<a href="https://github.com/AndreyRivera13/distributed-rate-limiter"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=distributed-rate-limiter&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
+<a href="https://github.com/AndreyRivera13/banking-core-platform"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=banking-core-platform&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
+<a href="https://github.com/AndreyRivera13/tech-content"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=tech-content&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
+<a href="https://github.com/AndreyRivera13/sat_wiki"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=sat_wiki&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
+<a href="https://github.com/AndreyRivera13/auth-service-challenge"><img width="49%" src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreyRivera13&repo=auth-service-challenge&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D&show_owner=false" /></a>
 
 </div>
 
-- 🖥️ [gitpilot](https://github.com/AndreyRivera13/gitpilot): Cliente Git de escritorio para macOS con Electron + React y soporte para varias cuentas.
-- 🚦 [distributed-rate-limiter](https://github.com/AndreyRivera13/distributed-rate-limiter): Controla cuántas peticiones hace cada cliente por unidad de tiempo en un entorno distribuido.
-- 🏦 [banking-core-platform](https://github.com/AndreyRivera13/banking-core-platform): Plataforma de core bancario en Java.
-- 🌊 [sat_wiki](https://github.com/AndreyRivera13/sat_wiki): Wiki del Sistema de Alertas Tempranas (SAT).
-- 🔐 [auth-service-challenge](https://github.com/AndreyRivera13/auth-service-challenge): Servicio de autenticación en Elixir.
-- 📚 [tech-content](https://github.com/AndreyRivera13/tech-content): Contenido tech diario.
+> [!NOTE]
+> **⭐ De qué va cada uno**
+>
+> - 🖥️ [gitpilot](https://github.com/AndreyRivera13/gitpilot): Cliente Git de escritorio para macOS con Electron + React y soporte para varias cuentas.
+> - 🚦 [distributed-rate-limiter](https://github.com/AndreyRivera13/distributed-rate-limiter): Controla cuántas peticiones hace cada cliente por unidad de tiempo en un entorno distribuido.
+> - 🏦 [banking-core-platform](https://github.com/AndreyRivera13/banking-core-platform): Plataforma de core bancario en Java.
+> - 🌊 [sat_wiki](https://github.com/AndreyRivera13/sat_wiki): Wiki del Sistema de Alertas Tempranas (SAT).
+> - 🔐 [auth-service-challenge](https://github.com/AndreyRivera13/auth-service-challenge): Servicio de autenticación en Elixir.
+> - 📚 [tech-content](https://github.com/AndreyRivera13/tech-content): Contenido tech diario.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
-## 📊 Stats
+<a id="stats"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=70&text=Estad%C3%ADsticas&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Estadísticas" />
+
+<h3 align="center">📊 Estadísticas</h3>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.hackclub.dev/api?username=AndreyRivera13&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D" />
-<img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AndreyRivera13&layout=compact&langs_count=8&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D" />
+<img width="49%" src="https://github-readme-stats.hackclub.dev/api?username=AndreyRivera13&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D" />
+<img width="49%" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AndreyRivera13&layout=compact&langs_count=8&bg_color=0D1117&title_color=1F6FEB&icon_color=6DB33F&text_color=C9D1D9&border_color=30363D" />
 
-<img src="https://streak-stats.demolab.com?user=AndreyRivera13&background=0D1117&border=30363D&ring=1F6FEB&fire=6DB33F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6DB33F&sideLabels=1F6FEB&dates=8B949E&stroke=30363D&locale=es" />
+<img width="100%" src="https://streak-stats.demolab.com?user=AndreyRivera13&background=0D1117&border=30363D&ring=1F6FEB&fire=6DB33F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6DB33F&sideLabels=1F6FEB&dates=8B949E&stroke=30363D&locale=es" />
 
 <br>
 
@@ -235,7 +285,10 @@ pie showData
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
-## 📫 Hablemos
+<a id="contacto"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6DB33F&height=70&text=Hablemos&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" alt="Hablemos" />
+
+<h3 align="center">📫 Hablemos</h3>
 
 <div align="center">
 
