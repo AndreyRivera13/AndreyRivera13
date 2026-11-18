@@ -3,7 +3,7 @@
 <a href="#perfil"><img src="assets/hero-v2.svg" width="100%" alt="Brayam Andrey Oliveros Rivera · Backends que no se caen" /></a>
 
 [![Escríbeme](https://img.shields.io/badge/✉️_Escríbeme-6DB33F?style=for-the-badge)](mailto:andreyrivera2018@gmail.com)
-[![Currículum](https://img.shields.io/badge/📄_Ver_currículum-FDDA24?style=for-the-badge&logoColor=0D1117)](https://andreyri13.github.io/Curriculum/)
+[![Currículum](https://img.shields.io/badge/📄_Ver_currículum-FDDA24?style=for-the-badge&logoColor=0D1117)](https://andreyrivera13.github.io/curriculum/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayam-andrey-oliveros-rivera-00a514200)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Construyo+backends+que+aguantan+el+tr%C3%A1fico+%F0%9F%9A%80;WebFlux%2C+RabbitMQ%2C+Redis+y+AWS+%E2%98%81%EF%B8%8F;Casi+6+a%C3%B1os+haciendo+backend+%F0%9F%8F%A6;Desde+C%C3%BAcuta%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
@@ -284,7 +284,7 @@ pie showData
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Setup de desarrollo" />
 
-[![Currículum](https://img.shields.io/badge/📄_Mi_currículum-2F81F7?style=for-the-badge)](https://andreyri13.github.io/Curriculum/)
+[![Currículum](https://img.shields.io/badge/📄_Mi_currículum-2F81F7?style=for-the-badge)](https://andreyrivera13.github.io/curriculum/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayam_Andrey_Oliveros_Rivera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayam-andrey-oliveros-rivera-00a514200)
 [![Email](https://img.shields.io/badge/Email-andreyrivera2018@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreyrivera2018@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AndreyRivera13-181717?style=for-the-badge&logo=github)](https://github.com/AndreyRivera13)
